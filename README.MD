@@ -1,4 +1,4 @@
-# Git Branching Demo
+# Git Branching Demo with merge via PR
 
 This repository was created to practice:
 
